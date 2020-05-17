@@ -7,8 +7,8 @@ The apllication was developed using Java in Netbeans IDE, therefore, it is advis
 ## Requisites
 What things you need to install the software and how to install them.
 
-[Netbeans 8.2](http://download.netbeans.org/netbeans/8.2/rc/bundles/netbeans-8.2-windows.exe)
-[JDK for Netbeans 8.2](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
+* [Netbeans 8.2](http://download.netbeans.org/netbeans/8.2/rc/bundles/netbeans-8.2-windows.exe)
+* [JDK for Netbeans 8.2](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
 
 **Note: You can use any IDE that runs Java,Java FX, Java SE, and SUN libraries. The above stated were used for development and deployment.**
 
@@ -26,12 +26,11 @@ This is the Very first version of the application since deployment and hence no 
 ## Contributing
 Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 ## Acknowledgments
 
